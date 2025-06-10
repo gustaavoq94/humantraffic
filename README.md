@@ -45,5 +45,24 @@ El gráfico resultante permite:
 
 ---
 
-## 📁 Estructura
+## 📬 Contribuciones
+
+¿Conoces datasets relacionados con derechos humanos que deberían analizarse?  
+¡Haz un fork del repositorio y abre un pull request!
+
+---
+
+## 👨‍💻 Autor
+
+**Gustavo Quevedo**  
+Científico de Datos  
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavoq94)  
+📁 [Repositorio en GitHub](https://github.com/gustaavoq94/humantraffic)
+
+---
+
+## ⚠️ Nota legal
+
+Este trabajo es de carácter educativo. Todos los datos utilizados son públicos y respetan los términos de uso de Kaggle. Las conclusiones no representan una evaluación definitiva, sino un punto de partida para futuras investigaciones.
+
 
